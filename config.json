@@ -1,0 +1,108 @@
+{
+  "server": {
+    "http_port": ":8083",
+    "ice_servers": ["stun:stun.l.google.com:19302"]
+  },
+  "streams": {
+    "CCTV1": {
+      "on_demand": false,
+      "disable_audio": true,
+      "url": "rtsp://admin:nimda12345@192.168.1.3:554/Streaming/Channels/101"
+    },
+    "CCTV2": {
+      "on_demand": false,
+      "disable_audio": true,
+      "url": "rtsp://admin:nimda12345@192.168.1.3:554/Streaming/Channels/201"
+    },
+    "CCTV3": {
+      "on_demand": false,
+      "disable_audio": true,
+      "url": "rtsp://admin:nimda12345@192.168.1.3:554/Streaming/Channels/301"
+    },
+    "CCTV4": {
+      "on_demand": false,
+      "disable_audio": true,
+      "url": "rtsp://admin:nimda12345@192.168.1.3:554/Streaming/Channels/401"
+    },
+    "CCTV5": {
+      "on_demand": false,
+      "disable_audio": true,
+      "url": "rtsp://admin:nimda12345@192.168.1.3:554/Streaming/Channels/501"
+    },
+    "CCTV6": {
+      "on_demand": false,
+      "disable_audio": true,
+      "url": "rtsp://admin:nimda12345@192.168.1.3:554/Streaming/Channels/601"
+    },
+    "CCTV7": {
+      "on_demand": false,
+      "disable_audio": true,
+      "url": "rtsp://admin:nimda12345@192.168.1.3:554/Streaming/Channels/701"
+    },
+    "CCTV8": {
+      "on_demand": false,
+      "disable_audio": true,
+      "url": "rtsp://admin:nimda12345@192.168.1.3:554/Streaming/Channels/901"
+    },
+    "CCTV9": {
+      "on_demand": false,
+      "disable_audio": true,
+      "url": "rtsp://admin:nimda12345@192.168.1.3:554/Streaming/Channels/1001"
+    },
+    "CCTV10": {
+      "on_demand": false,
+      "disable_audio": true,
+      "url": "rtsp://admin:nimda12345@192.168.1.2:554/Streaming/Channels/101"
+    },
+    "CCTV11": {
+      "on_demand": false,
+      "disable_audio": true,
+      "url": "rtsp://admin:nimda12345@192.168.1.2:554/Streaming/Channels/201"
+    },
+    "CCTV12": {
+      "on_demand": false,
+      "disable_audio": true,
+      "url": "rtsp://admin:nimda12345@192.168.1.2:554/Streaming/Channels/301"
+    },
+    "CCTV13": {
+      "on_demand": false,
+      "disable_audio": true,
+      "url": "rtsp://admin:nimda12345@192.168.1.2:554/Streaming/Channels/401"
+    },
+    "CCTV14": {
+      "on_demand": false,
+      "disable_audio": true,
+      "url": "rtsp://admin:nimda12345@192.168.1.2:554/Streaming/Channels/501"
+    },
+    "CCTV15": {
+      "on_demand": false,
+      "disable_audio": true,
+      "url": "rtsp://admin:nimda12345@192.168.1.2:554/Streaming/Channels/601"
+    },
+    "CCTV16": {
+      "on_demand": false,
+      "disable_audio": true,
+      "url": "rtsp://admin:nimda12345@192.168.1.2:554/Streaming/Channels/701"
+    },
+    "CCTV17": {
+      "on_demand": false,
+      "disable_audio": true,
+      "url": "rtsp://admin:nimda12345@192.168.1.2:554/Streaming/Channels/801"
+    },
+    "CCTV18": {
+      "on_demand": false,
+      "disable_audio": true,
+      "url": "rtsp://admin:nimda12345@192.168.1.2:554/Streaming/Channels/901"
+    },
+    "CCTV19": {
+      "on_demand": false,
+      "disable_audio": true,
+      "url": "rtsp://admin:nimda12345@192.168.1.2:554/Streaming/Channels/1001"
+    },
+    "CCTV20": {
+      "on_demand": false,
+      "disable_audio": true,
+      "url": "rtsp://admin:nimda12345@192.168.1.2:554/Streaming/Channels/1101"
+    }
+  }
+}
